@@ -1,16 +1,5 @@
-# Side By Side
+# Homework 5: Travel Fly About
 
-## This is your README
+## https://in-info-web4.informatics.iupui.edu/~hrshield/Homework5/
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus
-maiores excepturi reprehenderit aliquid sit consequuntur ipsa eius
-deserunt praesentium omnis quo incidunt nam corrupti, accusamus
-obcaecati aut eum cupiditate ex neque. Error eius dolores ex rerum.
-Debitis temporibus, suscipit dicta adipisci ut officia. Dolore
-repudiandae dolorem tempore hic vel esse quaerat nisi tenetur
-molestiae veritatis voluptas, nihil ullam, illo, omnis ducimus soluta
-optio natus voluptatum ad temporibus aliquam. Porro blanditiis qui
-incidunt odit id, doloremque quibusdam architecto deserunt officia
-sint, consequatur laudantium! Impedit optio, ipsum distinctio quas
-quam debitis, ab quia in illum officia soluta mollitia quos architecto
-incidunt. Reprehenderit.
+This assingment is all about the about page for the travel fly page. This page changes the Nav to be on a white background instead of a picture and set it up so the following page with white backgrounds can easily import the same styles. The two major pieces of the about page are the clients section and the layout with the quotes to the right of the pictures with clients names under it.
